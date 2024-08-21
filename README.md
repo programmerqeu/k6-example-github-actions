@@ -21,3 +21,5 @@ Examples:
 More complex examples could be combined from the basic examples from the list above.
 
 The full guide describing how to use this repository is located [here](https://blog.loadimpact.com/load-testing-using-github-actions).
+
+Justa test!
